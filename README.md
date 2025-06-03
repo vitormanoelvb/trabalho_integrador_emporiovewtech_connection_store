@@ -64,7 +64,7 @@ GROUP BY
 ## 🛠️ Tecnologias Utilizadas
 
 - **Banco de Dados:** MySQL 8.0+
-- **Ferramentas:** MySQL Workbench, Canva (modelagem)
+- **Ferramentas:** MySQL Workbench
 - **Scripts:** SQL com comandos `CREATE`, `ALTER`, `GRANT`, `PROCEDURE`, `VIEW`, `INDEX`
 
 <div align="left">
@@ -90,10 +90,10 @@ GROUP BY
 ## 📂 Acesso aos Arquivos
 
 - 📁 Google Drive:  
-  [Clique aqui para acessar os arquivos do projeto](https://drive.google.com/drive/folders/1wP-BqIh0mwxGh57NtRyHPkox3uREXHRy?usp=sharing)
+  [Clique aqui para acessar os arquivos do projeto](https://drive.google.com/file/d/1c3VJZrMGaaUqbNqLZAYhKqVHOT32_Zzj/view?usp=sharing)
 
-- 🧩 Ilustração gráfica da modelagem (Canva):  
-  [Visualizar modelagem ER](https://www.canva.com/design/DAGo2fmnNSk/darwbZYl3GkTWQOTAz0b4A/edit?utm_content=DAGo2fmnNSk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🧩 Ilustração gráfica da modelagem:  
+  [Visualizar modelagem ER](https://github.com/vitormanoelvb/trabalho_integrador_emporiovewtech_connection_store/blob/main/TRABAL~1.PDF)
 
 ---
 
