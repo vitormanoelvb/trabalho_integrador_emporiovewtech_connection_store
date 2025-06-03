@@ -1,3 +1,10 @@
+###
+
+  <img src="ADM_Seguranca_BancoDeDados_Univale_GP3_Vitor_Wauclidson_2025.jpg" width="100%" alt="ADM_Seguranca_BancoDeDados" />
+</div>
+
+---
+
 <h1 align="center">🛒 Empório VeWTech Conection Store</h1>
 
 <p align="center">
